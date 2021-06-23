@@ -14,7 +14,7 @@
 #### ➤ Repositorios: 🌴
 
 <p align="center">
-<a href="https://github.com/Hiro-Beet/Nezuko-API"><img title="Nezuko-API" src="https://github-readme-stats.vercel.app/api/pin/?username=hiro-beet&repo=Nezuko-API/tree/master&theme=merko"></a>
+<a href="https://github.com/Hiro-Beet/Nezuko-API"><img title="Nezuko-API" src="https://github-readme-stats.vercel.app/api/pin/?username=hiro-beet&repo=Nezuko-API&theme=merko"></a>
 </p>
 
 #### ➤  Lenguajes mas usados: ⚙
