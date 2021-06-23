@@ -14,5 +14,5 @@
 ### Lenguajes mas usados ➤
 
 <p align="center">
-<a href="https://github.com/Hiro-Beet"><img title="hiro-beet" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiro-beet&layout=compact"></a>
+<a href="https://github.com/Hiro-Beet"><img title="hiro-beet" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hiro-beet&custom_title=Lenguajes mas usados:&theme=merko&layout=compact"></a>
 </p>
