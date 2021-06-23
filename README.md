@@ -11,6 +11,12 @@
 <a href="https://github.com/Hiro-Beet"><img title="Github" src="https://img.shields.io/badge/hiro-beet-brightgreen?style=for-the-badge&logo=github"></a>
 </p>
 
+#### ➤ Repositorios: 🌴
+
+<p align="center">
+<a href="https://github.com/Hiro-Beet/Nezuko-API"><img title="Nezuko-API" src="https://github-readme-stats.vercel.app/api/pin/?username=hiro-beet&repo=Nezuko-API&theme=merko"></a>
+</p>
+
 #### ➤  Lenguajes mas usados: ⚙
 
 <p align="center">
