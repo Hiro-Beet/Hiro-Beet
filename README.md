@@ -1,3 +1,3 @@
 ## Hey! Este es mi perfil de Github! 💭🚀
-![](https://github.com/Hiro-Beet/Hiro-Beet/blob/main/src/A%20silent%20voice.gif)
+<p align="center"><img src="https://github.com/Hiro-Beet/Hiro-Beet/blob/main/src/gif.gif" alt="Bt">
 #### Espero que la pases bien aqui... 🍕
