@@ -40,10 +40,10 @@ if __name__ == '__main__':
 <br/>
 <p align="left">
   <a href="https://theh2so4.xyz">
-  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=theh2so4&show_icons=true&theme=aura&hide_border=true" />
-    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=theh2so4&theme=aura&hide_border=true" />
+  <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=theh2so4&show_icons=true&theme=gruvbox&hide_border=true" />
+    <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=theh2so4&theme=gruvbox&hide_border=true" />
   </a>
 </p>
 <br>
 
-[![TheH2SO4 Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=theh2so4&custom_title=TheH2SO4%20Trips's%20Contribution%20Graph&theme=aura&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://theh2so4.xyz)
+[![TheH2SO4 Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=theh2so4&custom_title=TheH2SO4%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://theh2so4.xyz)
