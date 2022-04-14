@@ -23,7 +23,7 @@ class TheH2SO4():
     self.web = "https://theh2so4.xyz";
   
   def __str__(self):
-    return self.name
+    return self.username
 
 if __name__ == '__main__':
     me = TheH2SO4()
