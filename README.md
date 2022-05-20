@@ -19,7 +19,9 @@ class TheH2SO4():
   def __init__(self):
     self.username = "TheH2SO4";
     self.location = "Manchester, United Kingdom";
+    self.npmjs = "@theh2so4";
     self.twitter = "@th3h2so4";
+    self.discord = "@TheH2SO4#0284";
     self.web = "https://theh2so4.xyz";
   
   def __str__(self):
