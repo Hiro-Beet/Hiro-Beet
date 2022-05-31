@@ -11,6 +11,9 @@ Heya! I'm TheH2SO4, a student currently living in Manchester, United Kingdom. I'
   <img src="https://img.shields.io/badge/-JS-f0db4f?style=for-the-badge&logo=javascript&logoColor=f0db4f&labelColor=282828">
   <img src="https://img.shields.io/badge/-PY-f0db4f?style=for-the-badge&logo=python&logoColor=4b8bbe&labelColor=282828">
 </div>
+<div align="center">
+  <img src="https://discord.c99.nl/widget/theme-2/440911743900712985.png">
+</div>
 </p>
 
 ```python
@@ -33,7 +36,7 @@ if __name__ == '__main__':
 
 <div align="center">
   <a href="https://open.spotify.com/user/316uwq2qvkqmtso2lszusqljo4w4">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=316uwq2qvkqmtso2lszusqljo4w4&cover_image=true&theme=default&bar_color=ffae00&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile">
+    <img src="https://spotify-github-profile.vercel.app/api/view?uid=316uwq2qvkqmtso2lszusqljo4w4&cover_image=true&theme=default&bar_color=ffae00&bar_color_cover=true">
   </a>
 </div>
 
