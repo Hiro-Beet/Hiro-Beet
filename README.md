@@ -25,20 +25,16 @@ class TheH2SO4():
     self.npmjs = "@theh2so4";
     self.twitter = "@th3h2so4";
     self.discord = "@TheH2SO4#0284";
-    self.web = "https://theh2so4.xyz";
+    # // self.web = "https://theh2so4.xyz"; // OUT OF ORDER
   
   def __str__(self):
     return self.username
+    return self.location
+    return self.discord
 
 if __name__ == '__main__':
     me = TheH2SO4()
 ```
-
-<div align="center">
-  <a href="https://open.spotify.com/user/316uwq2qvkqmtso2lszusqljo4w4">
-    <img src="https://spotify-github-profile.vercel.app/api/view?uid=316uwq2qvkqmtso2lszusqljo4w4&cover_image=true&theme=default&bar_color=ffae00&bar_color_cover=true">
-  </a>
-</div>
 
 ## Statistics
 
@@ -50,5 +46,3 @@ if __name__ == '__main__':
   </a>
 </p>
 <br>
-
-[![TheH2SO4 Trips' Activity Graph](https://activity-graph.herokuapp.com/graph?username=theh2so4&custom_title=TheH2SO4%20Trips's%20Contribution%20Graph&theme=gruvbox&bg_color=282828&hide_border=true&line=d1a01f&point=c58545)](https://theh2so4.xyz)
