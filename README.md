@@ -2,7 +2,7 @@
   <b>TheH2SO4 Trips</b>
 </h1>
 
-Heya! I'm TheH2SO4, a student currently living in Manchester, United Kingdom. I'm a geek and you can check some of my projects on the side.
+Heya! I'm TheH2SO4, a person currently living in Barcelona, Spain. I'm a geek and you can check some of my side projects.
 
 <br>
 
@@ -21,11 +21,10 @@ class TheH2SO4():
     
   def __init__(self):
     self.username = "TheH2SO4";
-    self.location = "Manchester, United Kingdom";
+    self.location = "Barcelona, Spain";
     self.npmjs = "@theh2so4";
     self.twitter = "@th3h2so4";
     self.discord = "@TheH2SO4#0284";
-    # // self.web = "https://theh2so4.xyz"; // OUT OF ORDER
   
   def __str__(self):
     return self.username
